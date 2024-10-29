@@ -1,0 +1,90 @@
+html,body{
+	height: 99%;
+	width: 99%;
+}
+*{
+	box-sizing: border-box;
+}
+.banner{
+	background-color: rgba(69,123,130,0.4);
+	margin: 15px;
+	padding: 10px;
+	border: 3px solid #e18cf2;
+	box-shadow: 1px 3px 30px 1px #0091ff;
+	outline: 10px 10px #457b82 groove;
+	text-transform: capitalize;
+	text-shadow: 1px 1px #8304d7 ;
+	font-family: anaheim;
+	height: 150px;
+	text-align: right;
+	font-style: oblique;
+}
+h1{
+	font-size: 0.8em;
+}
+
+#logo{
+	width: 65px;
+	position: absolute;
+	top: 60px;
+	right: 230px;
+}
+.container{
+	border:2px #0091ff;
+	position: relative;
+	top: 2px;
+	margin: 15px;
+	padding: 10px;
+	height: 700px;
+	overflow: hidden;
+	background-color: rgba(69,123,130,0.4);
+}
+.wave{
+	border: #9ce5f2 1px solid;
+	background-color: rgba(255,34,45, 0.5);
+	font-size: 0.9em;
+	height: 25px;
+	overflow: hidden;
+	width: 80%;
+	position:relative;
+	left: 10%;
+	transition: height 4s;
+	display:block;
+}
+#l1{
+	border:#D9A404 1px solid;
+	background-image:repeating-linear-gradient(red, green);
+}
+.wave:hover{
+	height:90%;
+	top:1px;
+	z-index:1;
+}
+.menu{
+	position: absolute;
+	top: 50px;
+	left: 70px;
+	color:#c404d4;
+	font-family: Anaheim;
+	font-size: 2em;
+	text-shadow: 2px 2px blue;
+	font-style: oblique;
+	width: 100px;
+	overflow: hidden;
+}
+.menu a{
+	color: #040345;
+	background-color: #00fbff;
+	text-shadow: 0px 0px ;
+	font-size: 0.5em;
+	padding: 1px;
+	border: 1px solid #ecd0d0;
+	display: none;
+}
+.menu:hover a{
+	display: block;
+}
+.menu a:hover{
+	color: #35277c;
+	background-color: #6d5f72;
+}
