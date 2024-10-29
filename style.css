@@ -23,7 +23,7 @@ h1{
 	font-size: 0.8em;
 }
 
-#logo{
+.logo{
 	width: 30px;
 	position: absolute;
 	top: 60px;
