@@ -24,10 +24,10 @@ h1{
 }
 
 .logo{
-	width: 30px;
+	width: 10px;
 	position: absolute;
-	top: 60px;
-	right: 200px;
+	top: 40px;
+	right: 150px;
 }
 .container{
 	border:2px #0091ff;
