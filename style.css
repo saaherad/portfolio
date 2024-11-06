@@ -16,8 +16,9 @@ html,body{
 	text-shadow: 1px 1px #8304d7 ;
 	font-family: anaheim;
 	height: 150px;
-	text-align: right;
+	text-align: center;
 	font-style: oblique;
+	h1: 0.8em;
 }
 
 .logo{
