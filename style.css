@@ -6,7 +6,7 @@ html,body{
 	box-sizing: border-box;
 }
 .banner{
-	background-color: rgba(69,123,130,0.4);
+	background-color: rgb(240, 255, 240);
 	margin: 15px;
 	padding: 10px;
 	border: 3px solid #e18cf2;
@@ -73,7 +73,7 @@ h1{
 	overflow: hidden;
 }
 .menu a{
-	color: #040345;
+	color: rgb(240, 250, 240);
 	background-color: #00fbff;
 	text-shadow: 0px 0px ;
 	font-size: 0.5em;
