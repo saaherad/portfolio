@@ -18,9 +18,10 @@ html,body{
 	height: 150px;
 	text-align: center;
 	font-style: oblique;
-	h1: 0.8em;
 }
-
+h1{
+	font-size: 0.8em; 
+}
 .logo{
 	width: 10px;
 	position: absolute;
