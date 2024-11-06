@@ -39,27 +39,7 @@ h1{
 	background-color: rgba(69,123,130,0.4);
 	text-align: center;
 }
-.wave{
-	border: #9ce5f2 1px solid;
-	background-color: rgba(255,34,45, 0.5);
-	font-size: 0.9em;
-	height: 25px;
-	overflow: hidden;
-	width: 80%;
-	position:relative;
-	left: 10%;
-	transition: height 4s;
-	display:block;
-}
-#l1{
-	border:#D9A404 1px solid;
-	background-image:repeating-linear-gradient(red, green);
-}
-.wave:hover{
-	height:90%;
-	top:1px;
-	z-index:1;
-}
+
 .menu{
 	position: absolute;
 	top: 50px;
