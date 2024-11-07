@@ -9,9 +9,9 @@ html,body{
 	background-color: aliceblue;
 	margin: 15px;
 	padding: 10px;
-	border: 3px solid #e18cf2;
-	box-shadow: 1px 3px 30px 1px #0091ff;
-	outline: 10px 10px #457b82 groove;
+	border: 3px solid lightseagreen;
+	box-shadow: 1px 3px 30px 1px ghostwhite;
+	outline: 10px 10px ghostwhite groove;
 	text-transform: capitalize;
 	text-shadow: 1px 1px ghostwhite;
 	font-family: anaheim;
