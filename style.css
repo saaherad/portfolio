@@ -36,7 +36,7 @@ h2{
 	padding: 10px;
 	height: 700px;
 	overflow: hidden;
-	background-color: rgba(69,123,130,0.4);
+	background-color: aliceblue;
 	text-align: center;
 }
 
@@ -47,7 +47,7 @@ h2{
 	color: darkseagreen;
 	font-family: Anaheim;
 	font-size: 2em;
-	text-shadow: 2px 2px ghostwhite;
+	text-shadow: 2px 2px lightseagreen;
 	font-style: oblique;
 	width: 100px;
 	overflow: hidden;
