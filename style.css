@@ -6,14 +6,14 @@ html,body{
 	box-sizing: border-box;
 }
 .banner{
-	background-color: rgb(240, 255, 240);
+	background-color: aliceblue;
 	margin: 15px;
 	padding: 10px;
 	border: 3px solid #e18cf2;
 	box-shadow: 1px 3px 30px 1px #0091ff;
 	outline: 10px 10px #457b82 groove;
 	text-transform: capitalize;
-	text-shadow: 1px 1px #F5FFFA ;
+	text-shadow: 1px 1px ghostwhite;
 	font-family: anaheim;
 	height: 150px;
 	text-align: center;
@@ -44,27 +44,27 @@ h2{
 	position: absolute;
 	top: 50px;
 	left: 70px;
-	color:#c404d4;
+	color:aliceblue;
 	font-family: Anaheim;
 	font-size: 2em;
-	text-shadow: 2px 2px blue;
+	text-shadow: 2px 2px ghostwhite;
 	font-style: oblique;
 	width: 100px;
 	overflow: hidden;
 }
 .menu a{
 	color: rgb(240, 250, 240);
-	background-color: #00fbff;
+	background-color: blue;
 	text-shadow: 0px 0px ;
 	font-size: 0.5em;
 	padding: 1px;
-	border: 1px solid #ecd0d0;
+	border: 1px solid aliceblue;
 	display: none;
 }
 .menu:hover a{
 	display: block;
 }
 .menu a:hover{
-	color: #35277c;
-	background-color: #6d5f72;
+	color: blue;
+	background-color: aliceblue;
 }
